@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+hr {
+  color: black;
+  width: 50%;
+  margin-left: 0;
+}
+
+h2 {
+  color: rgb(114, 199, 114);
+}
+
+h3 {
+  color: rgb(71, 95, 206);
+}
