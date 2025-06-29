@@ -1,5 +1,8 @@
 # 📄 HTML CV Project
 
+https://roadmap.sh/projects/single-page-cv
+
+
 A single-page curriculum vitae built with semantic HTML as part of my frontend web development learning journey.
 
 ## Features
@@ -36,4 +39,3 @@ Open index.html in your browser.
 
 Or visit the live page (if using GitHub Pages).
 
-https://roadmap.sh/projects/single-page-cv
