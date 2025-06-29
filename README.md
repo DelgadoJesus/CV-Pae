@@ -35,3 +35,5 @@ text
 Open index.html in your browser.
 
 Or visit the live page (if using GitHub Pages).
+
+https://roadmap.sh/projects/single-page-cv
